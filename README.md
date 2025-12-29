@@ -67,6 +67,7 @@ shows you how to test your mods using Vert.
 To run the tests, use the following command:
 
 ```
+npm i
 npm run test
 ```
 
